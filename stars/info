@@ -1,0 +1,124 @@
+{
+  "uuid": "3a8fda9e6715bf57cde33f93090f6b1c",
+  "path": "Offline/stars",
+  "name": "stars",
+  "content": "",
+  "created_at": "2022-06-15 22:47:08",
+  "updated_at": "2022-06-16 11:07:49",
+  "stick": "",
+  "documents": [
+    {
+      "uuid": "6ca46d9f47f04cfd3c9f80397a16b828",
+      "title": "Sheet_1",
+      "description": "",
+      "docType": "1",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "dd02fd6aae334f80869a73ee464c0387": 4,
+        "e7c5acf83edf4384867d186d54c2ccc0": 2,
+        "20612d548884415894a503c3d08853ca": 2,
+        "f72aafbbc9e140a3906ace14410d4219": 2
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "1uF",
+          2,
+          "CAP-TH_L5.5-W3.5-P5.00-D1.2",
+          "C1,C2",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C2839237",
+            "BOM_Manufacturer": "TDK",
+            "BOM_Manufacturer Part": "FK26X7R1H105KRE06",
+            "BOM_JLCPCB Part Class": "Extended Part",
+            "puuid": "3b63f015393342698b7a9f9d9593b496",
+            "uuid": "e7c5acf83edf4384867d186d54c2ccc0"
+          }
+        ],
+        [
+          "BC846A 1A",
+          2,
+          "SOT-23-3_L2.9-W1.3-P1.90-LS2.4",
+          "Q3,Q4",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C2919760",
+            "BOM_Manufacturer": "CBI(创基)",
+            "BOM_Manufacturer Part": "BC846A 1A",
+            "BOM_JLCPCB Part Class": "Extended Part",
+            "puuid": "b79091593c794664bbbd96a1871f4fde",
+            "uuid": "20612d548884415894a503c3d08853ca"
+          }
+        ],
+        [
+          "MFR1WSFRE52-3M3",
+          4,
+          "RES-TH_BD3.3-L9.0-P13.00-D0.6",
+          "U1,U2,U3,U4",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C1760327",
+            "BOM_Manufacturer": "YAGEO(国巨)",
+            "BOM_Manufacturer Part": "MFR1WSFRE52-3M3",
+            "puuid": "987b1ed46f1743c9a1f55a2893a33c05",
+            "uuid": "dd02fd6aae334f80869a73ee464c0387"
+          }
+        ],
+        [
+          "0603White light",
+          2,
+          "LED0603-FD",
+          "U5,U6",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "ReliaPro",
+            "BOM_Manufacturer Part": "0603White light",
+            "BOM_Supplier Part": "C113679",
+            "puuid": "b2142ad37752444c81455a204d85065a",
+            "uuid": "f72aafbbc9e140a3906ace14410d4219"
+          }
+        ]
+      ],
+      "updateTime": 1655326223,
+      "createTime": 1655324673,
+      "histories": [],
+      "created_at": "2022-06-15 23:24:33",
+      "updated_at": "2022-06-15 23:50:23"
+    },
+    {
+      "uuid": "9bdae3dc3a52e8f6e6cae109bcd7e1a6",
+      "puuid": "3a8fda9e6715bf57cde33f93090f6b1c",
+      "title": "PCB_stars",
+      "filename": "PCB_stars.json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "3b63f015393342698b7a9f9d9593b496": 2,
+        "b79091593c794664bbbd96a1871f4fde": 2,
+        "987b1ed46f1743c9a1f55a2893a33c05": 4,
+        "b2142ad37752444c81455a204d85065a": 2
+      },
+      "BOM": [],
+      "updateTime": 1655366869,
+      "createTime": 1655327127,
+      "histories": [],
+      "created_at": "2022-06-16 00:05:27",
+      "updated_at": "2022-06-16 11:07:49"
+    }
+  ],
+  "sort": [],
+  "title": "stars",
+  "foldername": "stars",
+  "schfilename": "stars.json",
+  "schfilemtime": 1655326223125
+}
